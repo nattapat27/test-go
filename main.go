@@ -8,4 +8,5 @@ import (
 func main() {
 	helloworld.Hello()
 	loop.While()
+	loop.For()
 }
